@@ -140,6 +140,3 @@ where:
 The derivation involves multiplying the sum by the common ratio and subtracting the original sum. This leads to a cancellation of terms, allowing us to solve for the sum.
 
 **Note:** This formula is valid only when r $\ne$ 1. If r $=$ 1, the sum is simply $n \cdot a$.
-
-
-
