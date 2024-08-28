@@ -6,7 +6,7 @@
 
 **Unit:** Hertz (Hz)
 
-![Frequency](Frequency.png)
+![Frequency](img/Frequency.png)
 
 **Formula:**
 
@@ -32,7 +32,7 @@ where:
 
 **Unit:** Meters (m)
 
-![Wavelength](Wavelength.png)
+![Wavelength](img/Wavelength.png)
 
 **Formula:**
 
@@ -50,7 +50,7 @@ Sine and cosine curves are periodic functions that represent the oscillations of
 
 **Visualization:**
 
-![SinCosWave](SinCosWave.png)
+![SinCosWave](img/SinCosWave.png)
 
 **Relationship:**
 
