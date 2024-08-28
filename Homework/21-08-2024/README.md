@@ -59,10 +59,18 @@ The sine and cosine curves are shifted versions of each other. A cosine curve is
 **Mathematical Representation:**
 
 * **Sine Wave:**
-$$ y = A \cdot sin(\omega t + \phi) $$
+
+$$
+\displaystyle
+y = A \cdot sin(\omega t + \phi)
+$$
 
 * **Cosine Wave:**
-$$ y = A \cdot cos(\omega t + \phi) $$
+
+$$
+\displaystyle
+y = A \cdot cos(\omega t + \phi)
+$$
 
 where:
 
@@ -85,9 +93,9 @@ Hertz (Hz) is the unit of frequency. It represents the number of cycles per seco
 
 **Formula:**
 
-$$
+```math
 S_n = {n \over 2} \; [2a + (n-1) \cdot d]
-$$
+```
 
 where:
 
@@ -103,7 +111,7 @@ The sum of an AP can be derived by pairing the first and last term, the second a
 Since there are $n \over 2$ pairs, the sum is:
 
 $$
-S_n = {n \over 2} \; (a + l)
+S_n = {n \over 2} \space (a + l)
 $$
 
 We can express the last term (l) as:
@@ -114,9 +122,9 @@ $$
 
 Substituting this into the sum formula gives:
 
-$$
+```math
 S_n = {n \over 2} \; [2a + (n-1) \cdot d]
-$$
+```
 
 ## 6. Summation of a Geometric Progression (GP)
 
